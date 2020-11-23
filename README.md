@@ -1,4 +1,4 @@
-<img src="https://github.com/ArielOliveira/Midpoint-Displacement/blob/master/demo/wideCurve.png" width="270" height="270">
+<img src="https://github.com/ArielOliveira/Midpoint-Displacement/blob/master/demo/wideCurve.png" width="1000" height="270">
 
 # Midpoint-Displacement
 A recursive implementation of Midpoint Displacement algorithm
