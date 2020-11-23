@@ -1,3 +1,5 @@
+<img src="https://github.com/ArielOliveira/Midpoint-Displacement/blob/master/demo/wideCurve.png" width="270" height="270">
+
 # Midpoint-Displacement
 A recursive implementation of Midpoint Displacement algorithm
 
@@ -28,6 +30,3 @@ the height of a given x, y point.
   - -d: A float that determines the roughness of the curve, ranges from 0.0 to 0.9. The default is 0.5
   - -r: The resolution of the image, by default it will be 1366x768
   - -o: The file name output
-
-## Demo
- <img src="https://github.com/ArielOliveira/Opengl2DBasics/blob/master/demo/Dice.png" width="270" height="270">
