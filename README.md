@@ -28,5 +28,5 @@ the height of a given x, y point.
 ## Execution
 - The executable takes 3 parameters
   - -d: A float that determines the roughness of the curve, ranges from 0.0 to 0.9. The default is 0.5
-  - -r: The resolution of the image, by default it will be 1366x768
+  - -r: The resolution of the image, will be 1366x768 by default
   - -o: The file name output
